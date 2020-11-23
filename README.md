@@ -1,7 +1,10 @@
-pyHacks
-=======
+irra/pyHacks
+============
 
-Python Scripts for Hacking .
+Examples Python Scripts for Hacking
+Tutorials and howto's 
 
-Python Scripts used in the "Hacking con Python" series.
+
+
+Fork from Python Scripts used in the "Hacking con Python" series.
 Check: http://thehackerway.com
